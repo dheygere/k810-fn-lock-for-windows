@@ -1,5 +1,5 @@
 # k810-fn-lock-for-windows
-Lock Fn keys on K810 (for windows)
+Lock Fn keys on K810 (for windows)   
 This is a clone of my other repo for the K380 (https://github.com/dheygere/k380-fn-lock-for-windows)
 
 ## Goal
